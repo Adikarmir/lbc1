@@ -1,4 +1,4 @@
-
+Hello all
 echo "# lbc1" >> README.md
 git init
 git add README.md
