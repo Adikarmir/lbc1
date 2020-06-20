@@ -7,3 +7,4 @@ git remote add origin https://github.com/Adikarmir/lbc1.git
 git push -u origin master
                 
 D
+F
